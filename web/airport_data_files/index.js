@@ -1,0 +1,1 @@
+document.writeln('<span id="_ideConac"><a href="//bszs.conac.cn/sitename?method=show&amp;id=085B302CA0945C90E053012819ACCDED" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="//www.hubei.gov.cn/css/2015/images/red.png" data-bd-imgshare-binded="1" /></a></span>');
